@@ -1,0 +1,9 @@
+…or push an existing repository from the command line
+PASSO 1 
+git remote add origin https://github.com/rossinoli/calculadora-cientifica.git
+
+PASSO 2
+git branch -M main
+
+PASSO 3
+git push -u origin main
